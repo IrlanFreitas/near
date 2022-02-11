@@ -13,46 +13,46 @@ O Next.js oferece a melhor experiência de desenvolvedor com todos os recursos n
 
 &lt;Image&gt; and Automatic Image Optimization with instant builds.
 
-#### Imagem Optimization
+#### Internationalization
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Built-in Domain & Subdomain Routing and Automatic Language detection.
 
-#### Imagem Optimization
+#### Next.js Analytics
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+A true lighthouse score based on real visitor data & page-by-page insights
 
-#### Imagem Optimization
+#### Zero Config
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Automatic compilation and bundling. Optimized for production from the start.
 
-#### Imagem Optimization
+#### Hybrid: SSG and SSR
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Pre-render pages at build time (SSG) or request time (SSR) in a single project.
 
-#### Imagem Optimization
+#### Incremental Static Regeneration
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Add and update statically pre-rendered pages incrementally after build time.
 
-#### Imagem Optimization
+#### TypeScript Support
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Automatic TypeScript configuration and compilation.
 
-#### Imagem Optimization
+#### Fast Refresh
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Fast, reliable live-editing experience, as proven at Facebook scale.
 
-#### Imagem Optimization
+#### File-system Routing
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Every component in the pages directory becomes a route.
 
-#### Imagem Optimization
+#### API Routes
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Optionally create API endpoints to provide backend functionality.
 
-#### Imagem Optimization
+#### Built-in CSS Support
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Create component-level styles with CSS modules. Built-in Sass support.
 
-#### Imagem Optimization
+#### Code-splitting and Bundling
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+Optimized bundle splitting algorithm created by the Google Chrome team.
