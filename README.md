@@ -9,50 +9,38 @@ O Next.js oferece a melhor experiência de desenvolvedor com todos os recursos n
 
 <hr>
 
-#### Imagem Optimization
+#### [Otimização de Imagem](https://nextjs.org/docs/basic-features/image-optimization)
+&lt;Image&gt; e Otimização Automática de Imagem com builds instantâneos.
 
-&lt;Image&gt; and Automatic Image Optimization with instant builds.
+#### [Internacionalização](https://nextjs.org/docs/advanced-features/i18n-routing)
+Roteamento de domínio e subdomínio integrado e detecção automática de idioma.
 
-#### Internationalization
+#### [Análise do Next.js](https://nextjs.org/analytics)
+Uma verdadeira pontuação de farol com base em dados reais de visitantes e insights página a página
 
-Built-in Domain & Subdomain Routing and Automatic Language detection.
+#### [Configuração zero](https://nextjs.org/docs/getting-started)
+Compilação e agrupamento automáticos. Otimizado para produção desde o início.
 
-#### Next.js Analytics
+#### [Híbrido: SSG e SSR](https://nextjs.org/docs/basic-features/data-fetching/overview)
+Pré-renderize as páginas em tempo de compilação (SSG) ou tempo de solicitação (SSR) em um único projeto.
 
-A true lighthouse score based on real visitor data & page-by-page insights
+#### [Regeneração Estática Incremental](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration)
+Adicione e atualize páginas pré-renderizadas estaticamente de forma incremental após o tempo de compilação.
 
-#### Zero Config
+#### [Suporte TypeScript](https://nextjs.org/docs/basic-features/typescript)
+Configuração e compilação automáticas de TypeScript.
 
-Automatic compilation and bundling. Optimized for production from the start.
+#### [Atualização rápida](https://nextjs.org/docs/basic-features/fast-refresh)
+Experiência de edição ao vivo rápida e confiável, comprovada na escala do Facebook.
 
-#### Hybrid: SSG and SSR
+#### [Roteamento do sistema de arquivos](https://nextjs.org/docs/routing/introduction)
+Cada componente no diretório de páginas se torna uma rota.
 
-Pre-render pages at build time (SSG) or request time (SSR) in a single project.
+#### [Rotas de API](https://nextjs.org/docs/api-routes/introduction)
+Opcionalmente, crie endpoints de API para fornecer funcionalidade de back-end.
 
-#### Incremental Static Regeneration
+#### [Suporte a CSS integrado](https://nextjs.org/docs/basic-features/built-in-css-support)
+Crie estilos de nível de componente com módulos CSS. Suporte Sass integrado.
 
-Add and update statically pre-rendered pages incrementally after build time.
-
-#### TypeScript Support
-
-Automatic TypeScript configuration and compilation.
-
-#### Fast Refresh
-
-Fast, reliable live-editing experience, as proven at Facebook scale.
-
-#### File-system Routing
-
-Every component in the pages directory becomes a route.
-
-#### API Routes
-
-Optionally create API endpoints to provide backend functionality.
-
-#### Built-in CSS Support
-
-Create component-level styles with CSS modules. Built-in Sass support.
-
-#### Code-splitting and Bundling
-
-Optimized bundle splitting algorithm created by the Google Chrome team.
+#### [Divisão de código e agrupamento](https://nextjs.org/docs)
+Algoritmo otimizado de divisão de pacotes criado pela equipe do Google Chrome.
