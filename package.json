@@ -1,0 +1,19 @@
+{
+  "name": "near-alura-cases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:IrlanFreitas/near.git",
+  "author": "irlan.freitas <irlan.freitas@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
