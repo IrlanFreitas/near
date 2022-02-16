@@ -8,6 +8,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next build && next export",
+    "out": "npx http-server ./out -c-1",
     "start": "next start",
     "lint": "next lint"
   },

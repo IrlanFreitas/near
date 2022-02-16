@@ -1,6 +1,9 @@
+
+# Conhecendo o Next.js
 ## O que é e por que usar Next.js?
 
 É necessário prestar bem atenção aos detalhes pois tudo é necessário uma pequena configuração que faz toda diferença. </br>
+SSG (Static Site Generation) </br>
 React - CSR (Client Side Rendering) </br>
 NextJS - SSR (Server Side Rendering) </br>
 Jamstack </br>
@@ -16,3 +19,10 @@ Jamstack </br>
 * [Jamstack](https://jamstack.org/)
 * [Curso de Performance Web I: otimizando o front-end](https://www.alura.com.br/conteudo/otimizacao-performance-web)
 
+# Build e SEO
+
+## Build
+
+## SEO
+
+Search Engine Optimization
