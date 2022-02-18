@@ -8,6 +8,10 @@ React - CSR (Client Side Rendering) </br>
 NextJS - SSR (Server Side Rendering) </br>
 Jamstack </br>
 
+## Como organizar o projeto
+
+https://youtu.be/mJK5oGixSYo
+
 ### Materiais de Apoio:
 
 * [Site oficial](https://nextjs.org/)
@@ -26,3 +30,9 @@ Jamstack </br>
 ## SEO
 
 Search Engine Optimization
+
+# Estilização 
+
+## Css In Js
+
+## Styled Components
