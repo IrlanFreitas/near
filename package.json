@@ -9,7 +9,7 @@
     "dev": "next dev",
     "build": "next build",
     "export": "next build && next export",
-    "deploy": "next build && next start",
+    "deploy:local": "next build && next start",
     "out": "npx http-server ./out -c-1",
     "start": "next start",
     "lint": "next lint"

@@ -37,3 +37,10 @@ Search Engine Optimization
 ## Css In Js
 
 ## Styled Components
+
+
+# Configurações gerais
+
+## next.config.js
+
+## Publicação da Vercel
