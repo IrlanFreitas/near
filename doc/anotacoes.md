@@ -4,6 +4,7 @@
 
 É necessário prestar bem atenção aos detalhes pois tudo é necessário uma pequena configuração que faz toda diferença. </br>
 SSG (Static Site Generation) </br>
+ISG - Incremental Static Generation (Mistura de SSG e SSR)
 React - CSR (Client Side Rendering) </br>
 NextJS - SSR (Server Side Rendering) </br>
 Jamstack </br>
