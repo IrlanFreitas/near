@@ -10,13 +10,13 @@ function MyApp({ Component, pageProps }) {
         <>
             <Head>
                 {/* Global site tag (gtag.js) - Google Analytics */}
-                <script async src="https://www.googletagmanager.com/gtag/js?id=G-YWH0058DJS"></script>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-RMBZ5S4W65"></script>
                 <script dangerouslySetInnerHTML={{
                     __html: `
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
-                    gtag('config', 'G-YWH0058DJS');
+                    gtag('config', 'G-RMBZ5S4W65');
                     ` }} />
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossoOrigin={true.toString()} />
