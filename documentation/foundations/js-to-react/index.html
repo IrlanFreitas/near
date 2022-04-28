@@ -1,0 +1,37 @@
+<html>
+  <body>
+    
+    <div id="app"></div>
+
+    <!-- ? React -->
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <!-- ? React DOM -->
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <!-- ? Babel -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <script type="text/jsx">
+      const app = document.getElementById("app");
+
+    /**
+
+     * Programação imperativa, todo o passo a passo 
+     * para renderizar um item na tela
+
+        const header = document.createElement("h1");
+
+        const headerContent = document.createTextNode(
+            "Develop. Preview. Ship. 🚀"
+        );
+
+        header.appendChild(headerContent);
+
+        app.appendChild(header);
+    */
+
+    /* Programação Declarativa, apenas diz o que quer seja feito, 
+        sem saber como isso será feito ou se importar.  */
+    ReactDOM.render(<h1>Develop. Preview. Ship. 🚀</h1>, app)
+    </script>
+  </body>
+</html>
